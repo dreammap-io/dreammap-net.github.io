@@ -2,7 +2,7 @@
   "name": "Dream Map - Visualize Your Journey",
   "short_name": "Dream Map",
   "description": "Create and share your dream journey with an interactive map. Turn your dreams into a beautiful visual roadmap.",
-  "id": "https://dreammap.net/",
+  "id": "https://dreammap.tech/",
   "icons": [
     {
       "src": "/web-app-manifest-192x192.png",
